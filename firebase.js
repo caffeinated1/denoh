@@ -1,5 +1,6 @@
 // Your web app's Firebase configuration
 // Import the functions you need from the SDKs you need
+//PALOMO 
 var firebaseConfig = {
   apiKey: "AIzaSyAxLo6k-XfxdR6S04FZS_xaWSJ1xTRuH-w", //have the keys ....
   authDomain: "denoh-998d9.firebaseapp.com", // will change
